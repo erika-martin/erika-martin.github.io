@@ -1,2 +1,2 @@
-# Hola
+
 Bienvenido a mi blog, en el que encontrarás contenido creado por mí. ¡Espero que te guste!
