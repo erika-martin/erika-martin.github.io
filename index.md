@@ -1,3 +1,2 @@
-# Bienvenida a mi blog
-
-Me alegro de que estés aquí. Pienso hablar sobre ...
+# Hola
+Bienvenido a mi blog, en el que encontrarás contenido creado por mí. ¡Espero que te guste!
