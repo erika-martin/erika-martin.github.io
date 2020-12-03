@@ -2,6 +2,7 @@
 title: "Estrategia de contenido: A Project Guide to UX Design & Content Strategy for the Web, Second Edition"
 date: 2020-10-27
 ---
+
 La estrategia de contenido busca un fin: **planear y estructurar el contenido**. Esto no quiere decir que se trate de arquitectura de la información no de copywriting. 
 
 Los *audit* pueden ayudar a:
@@ -20,7 +21,7 @@ Para poder llevar a cabo el *audit* en grandes cantidades de información es uti
 
 Normalmente, solo hay que mirar la cantidad de información justa y necesaria para encontrar los patrones, las respuestas a tus preguntas o reducir la incertidumbre. 
 
- ###### CONCLUSIONES
+ ##### CONCLUSIONES
 
  Los *audit* son una parte vital a la hora de decidir el lugar de cada cosa. Para poder llevar a cabo un plan de acción, será necesario seguir los pasos marcados  en este texto. 
  

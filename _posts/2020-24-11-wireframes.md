@@ -2,6 +2,7 @@
 title: "Wireframes: Wireframes: Que son y cómo crearlos"
 date: 2020-11-24
 ---
+
 Los wireframes son necesarios para crear un mínimo de planificación y para detectar posibles problemas, así evitando trabajar innecesariamente.
 
 Un wireframe es **un boceto visual en el que se representa, de manera sencilla, la estructura de una web**. Para ello, hay que incluir los menús de navegación, los bloques de contenido…
@@ -23,7 +24,7 @@ Creado a mano | Es un método muy sencillo. Puede ser lo complejo que desees.
 Plantillas imprimibles | Desde papeles que representan una ventana en blanco hasta pequeños cuadrados que ayudan a organizarlo todo. Aporta un look profesional a un precio asequible. 
 Programa informático | [Balsamiq Wireframes] (https://balsamiq.com/wireframes/), [Pencil] (https://pencil.evolus.vn/), [Wireframe.cc] (https://wireframe.cc/), [Figma] (https://www.figma.com/) 
 
-###### CONCLUSIONES
+##### CONCLUSIONES
 
 :warning: IMPORTANTE :warning:
 
